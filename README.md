@@ -1,2 +1,2 @@
 # CIS194-S13
-My CIS 194 solutions.
+Solutions to the homeworks found here: https://www.cis.upenn.edu/~cis194/spring13/lectures.html.
